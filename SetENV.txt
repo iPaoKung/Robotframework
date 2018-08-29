@@ -1,0 +1,7 @@
+;c:\Python27;c:\Python27\Scripts;C:\Python27\Driver;%PATH%
+
+pip install robotframework
+
+pip install robotframework-selenium2library==1.8.0
+
+pip install --upgrade robotframework-selenium2library
